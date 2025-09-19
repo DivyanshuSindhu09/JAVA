@@ -1,3 +1,5 @@
+//* package is a folder in which your java file lies
+
 //! every file with extension .java is a class
 //! jis name ki file hai us hi name ki class honi chahiye
 //! if you are creating a class make sure that it's first letter is capital
